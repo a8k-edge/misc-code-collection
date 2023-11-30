@@ -1,0 +1,6 @@
+requests
+fastapi
+uvicorn
+sqlalchemy
+alembic
+python-crontab
